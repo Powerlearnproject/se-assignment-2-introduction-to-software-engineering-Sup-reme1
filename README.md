@@ -20,6 +20,7 @@ ans:Software development Life cycle are
 4. Monitoring
 5. Closure.
 
+
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 ans: Various phase of software development are
 1. Initialization this includes (Project goal and objectives, conducting feasibility study, identify stake holders and develop projects character)
