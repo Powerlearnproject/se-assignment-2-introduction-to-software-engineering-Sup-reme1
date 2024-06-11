@@ -12,7 +12,7 @@ ans: Software Engineering is the application of engineering principles in the pr
 What is software engineering, and how does it differ from traditional programming?
 ans: Software engineer is different from traditional programming because software engineer work in collaboration whereby traditional programming might work alone. The traditional programming write code to solve problem alone, while software engineer take a systemtic approch in the designing of a software.
 
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC
 ans:Software development Life cycle are
 1. Initialization
 2. Planning
